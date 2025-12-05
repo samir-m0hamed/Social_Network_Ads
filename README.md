@@ -1,5 +1,6 @@
 # 📘 Predicting Purchase Behavior using Logistic Regression
 
+
 ## 📝 Overview
 
 This project applies **Binary Logistic Regression** to predict whether a user will purchase a product based on demographic features from the **Social Network Ads dataset**.  
