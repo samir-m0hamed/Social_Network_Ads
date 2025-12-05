@@ -1,7 +1,6 @@
 # 📘 Predicting Purchase Behavior using Logistic Regression
 
-
----
+.
 
 ## 📝 Overview
 
