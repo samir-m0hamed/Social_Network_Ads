@@ -102,14 +102,9 @@ These visualizations help understand how the model separates buyers vs non-buyer
 
 ## ▶️ Usage
 
-Open the notebook to run training and evaluation:
+Identifying which customers are likely to purchase the product, allowing us to deliver targeted social media advertisements specifically to them. .
 
-```bash
-jupyter notebook Social Newtork Ads.ipynb
 
----
-
-```markdown
 ## 🔮 Future Work
 
 - Apply feature selection or regularization  
